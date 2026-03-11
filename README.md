@@ -1,4 +1,4 @@
-# Orvexa Studio - Flower E-commerce MVP
+# Orvexa Studio - 3D E-commerce MVP
 
 FlowerBX tasarım yaklaşımından ilham alan, `Next.js + Express + MongoDB` tabanlı fullstack cicek e-ticaret MVP projesi.
 
